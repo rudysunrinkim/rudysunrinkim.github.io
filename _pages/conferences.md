@@ -1,5 +1,5 @@
 ---
-permalink: /conference/
+permalink: /conferences/
 title: "Conference Papers"
 ---
 
