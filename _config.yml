@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rudy Sunrin Kim"
   avatar : "/assets/images/Rudy (1).jpg"
-  bio    : "Graduate Candidate in Communication at the University of Maryland. Research in health, science, persuasion, and well-being "
+  bio    : "Graduate Candidate in Communication at the University of Maryland."
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-linkedin"
