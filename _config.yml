@@ -63,7 +63,7 @@ author:
   bio    : "Graduate Candidate in Communication at the University of Maryland."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/rudy-sunrin-kim-872522131"
     #- label: "Twitter"
     # icon: "fab fa-fw fa-twitter-square"
