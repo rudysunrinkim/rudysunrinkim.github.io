@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am a **PhD candidate in Communication Science** at University of Maryland. My research interests are in the area of health, science, persuasion, and strategic communication. My main projects are:
+I am a **PhD candidate in Communication Science** at the University of Maryland. My research interests are in the area of health, science, persuasion, and strategic communication. My main projects are:
 - Project 1: Concept Explication of Well-Being in Communication Research
 - Project 2: The Role of Eudaimonic Narratives on Prosocial Behaviors
 - Project 3: News Headlines and the Role of Framing on Mental Health Treatment
